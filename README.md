@@ -6,6 +6,7 @@ How to download:
 1. Open the Terminal
 
 2. Enter this command
+
 `
 curl -OL  https://raw.githubusercontent.com/MIDIfactory/Bioinformatics2023/main/BASH_BioinformaticsMBG.zip
 `

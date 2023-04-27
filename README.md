@@ -8,7 +8,7 @@ How to download:
 2. Enter this command (lesson 13 april)
 
 `
-curl -OL  https://raw.githubusercontent.com/MIDIfactory/Bioinformatics2023/main/READS_and_GENOMES.zip
+curl -OL  https://raw.githubusercontent.com/MIDIfactory/Bioinformatics2023/main/Genome_analysis.zip
 `
 
 Change the name of the folder according to the exercises of the lesson you need to download. For exemple, if you want to download the folder with the exercises of the BASH lesson enter: 
@@ -19,6 +19,6 @@ curl -OL  https://raw.githubusercontent.com/MIDIfactory/Bioinformatics2023/main/
 3. Unzip the folder
 
 `
-unzip BASH_BioinformaticsMBG.zip
+unzip Genome_analysis.zip
 `
  

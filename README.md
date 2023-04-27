@@ -5,7 +5,7 @@ Material for the Bioinformatics course 2022/23, Molecular Biology and Genetics, 
 How to download:
 1. Open the Terminal
 
-2. Enter this command (lesson 13 april)
+2. Enter this command (lesson 2-4 may)
 
 `
 curl -OL  https://raw.githubusercontent.com/MIDIfactory/Bioinformatics2023/main/Genome_analysis.zip

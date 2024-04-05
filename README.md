@@ -18,6 +18,6 @@ Change the name of the folder according to the exercises of the lesson you need 
 3. Unzip the folder
 
 `
-unzip GENOME_ANALYSIS.zip
+unzip MAPPING.zip
 `
  
